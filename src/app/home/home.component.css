@@ -1,0 +1,31 @@
+.my-container{
+  background: rgb(220,220,220);
+background: linear-gradient(90deg, rgba(220,220,220,1) 0%, rgba(226,226,226,1) 56%, rgba(218,218,218,1) 100%);
+  padding-top: 200px;
+  padding-right: 30%;
+  padding-left: 30%;
+  padding-bottom: 200px;
+
+  align-self: auto;
+}
+
+.button-menu {
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+  height: 100%;
+  line-height: 1px;
+  color: #000000;
+  font-family: Arial;
+  width: 100%;
+  font-size: 16px;
+  font-weight: 600;
+  padding: 20px;
+  background-color: #FFFFFF;
+  border: solid #000000 2px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
